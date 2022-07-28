@@ -12,4 +12,4 @@
 
 #### UML Image:
 
-![image](https://user-images.githubusercontent.com/78900552/181616467-9e7187ac-db6c-495c-8cdc-41e9fc42d822.png)
+![image](https://user-images.githubusercontent.com/78900552/181619291-6c6d0179-09fb-4961-b194-fb5ea119511f.png)
