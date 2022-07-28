@@ -1,17 +1,27 @@
 class Animal {
+  public String name;
+  private String type;
+}
 
-  // field and method of the parent class
-  String name;
-  public void eat() {
-    System.out.println("I can eat");
+class legs extends Animal {
+ public String pet_name;
+ protected int number_of_legs;
+}
+
+class Dog extends legs {
+
+  private String barks;
+  protected Bool pet;
+  public void display() {
+    System.out.println("My name is " + pet_name);
   }
 }
 
-// inherit from Animal
-class Dog extends Animal {
+class cow extends legs {
 
-  // new method in subclass
+  private String moos;
+  protected Bool pet;
   public void display() {
-    System.out.println("My name is " + name);
+    System.out.println("My name is " + pet_name);
   }
 }
